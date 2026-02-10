@@ -26,7 +26,6 @@ nav:
     - longterm/tongxin.md
     - longterm/xinglin.md
     - longterm/xiyang.md
-    - longterm/longyuan.md
     - longterm/gesang.md
   - 基金会:
     - foundation/index.md
@@ -34,6 +33,7 @@ nav:
     - history/index.md
   - 品牌活动:
     - activity/index.md
+    - activity/longyuan.md    
   - 漫漫大事记:
     - news/index.md
   - 留言板:
