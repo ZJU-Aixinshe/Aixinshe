@@ -69,7 +69,7 @@ theme:
         name: 切换至夜间模式
     # 夜间模式
     - scheme: slate
-      primary: indigo
+      primary: red
       accent: orange
       toggle:
         icon: material/weather-sunny
